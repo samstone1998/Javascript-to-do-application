@@ -1,0 +1,29 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+
+body{
+  background-color:#2980b9 !important;
+  font-family: 'ZCOOL QingKe HuangYou', cursive !important;
+
+}
+
+
+#app-container{
+  background-color:#3498db;
+}
+
+
+
+.completed{
+  background-color:#2ecc71;
+}
+
+
+@media  only screen and (max-width:700px){
+  #btnaddtask{
+    width:100%;
+  }
+  
+}
